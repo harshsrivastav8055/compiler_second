@@ -1,1 +1,17 @@
-let x = 45*(4/3)+1;
+let i
+SunBhai i
+BolBhai i
+if(i<10){
+    BolBhai Hellochote
+}
+else{
+    BolBhai helloBade
+}
+for(int i=0;i<10;i++){
+    BolBhai i
+}
+var j = 0
+while(j<10){
+    SunBhai j
+    j = j + 1
+}
